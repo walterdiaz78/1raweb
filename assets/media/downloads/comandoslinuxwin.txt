@@ -1,0 +1,19 @@
+Comandos mas utilizados en Windows y Linux
+            dir (en Windows) ls (en Linux): Lista directorios y archivos
+
+            cd (en Windows y Linux): Cambia de directorio
+
+            mkdir (en Windows y Linux): Crea un directorio
+
+            copy (en Windows) cp (en Linux): Copia archivos o directorios
+
+            move (en Windows) mv (en Linux): Mueve archivos o directorios
+
+            rename (en Windows) mv (en Linux): Renombra archivos o directorios
+
+            del (en Windows) rm (en Linux): Elimina archivos
+
+            pwd (en Linux): Muestra la ubicación actual
+
+            ls (en Linux): Lista directorios y archivos
+
